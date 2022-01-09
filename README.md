@@ -30,6 +30,7 @@ We would like you to build a React app that connects to a movie and/or tv show o
 - As a user I should be able to sort by name, year of release
 - As a user I would like to be able to favorite a number of titles and I would like those favorite to persist in the browser (local is sufficient, no need for external APIs)
 - My favorites should be accessible on a different route
+- Demo video uploaded to YouTube presenting(with voiceover/webcam) all the Requirements(how to install&run the project, file structure, code structure, app demo)
 
 ## Nice to haves
 
