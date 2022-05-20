@@ -1,5 +1,4 @@
-# React exercise
-
+# Angular/React exerc
 # What is this?
 
 The following instructions and requirements in this repository represent a step in the Northdan community onboarding process. It's a (hopefully) simple take home exercise to be later used as a conversation starter in our technical discussion. It should also help us in reducing the number of technical challenges a client wants you to go through
@@ -12,7 +11,7 @@ It is not meant to be an evaluation of your full skills as a professional. Also 
 
 # Exercise brief
 
-We would like you to build a React app that connects to a movie and/or tv show open api that:
+We would like you to build a Angular/React app that connects to a movie and/or tv show open api that:
 
 - allows me to search for the title of their favorite show or display a list of all results
 - allows users to sort the results and to filter
@@ -20,7 +19,7 @@ We would like you to build a React app that connects to a movie and/or tv show o
 
 ## Requirements
 
-- Must use latest version of React/React Native/Angular(please take into account what the role you are applying for has as a requirements)
+- Must use latest version of Angular/React(please take into account what the role you are applying for has as a requirements)
 - Must use CSS/SCSS to style component (use of a CSS framework is allowed and encouraged: ex Tailwind)
 - API keys should not be hardcoded in the JS/TS files
 - Project should contain linting config
@@ -31,6 +30,7 @@ We would like you to build a React app that connects to a movie and/or tv show o
 - As a user I would like to be able to favorite a number of titles and I would like those favorite to persist in the browser (local is sufficient, no need for external APIs)
 - My favorites should be accessible on a different route
 - Demo video uploaded to YouTube presenting(with voiceover/webcam) all the Requirements(how to install&run the project, file structure, code structure, app demo)
+- Deployed on github pages(with script and branch)
 
 ## Nice to haves
 
@@ -39,7 +39,7 @@ We would like you to build a React app that connects to a movie and/or tv show o
 - Multi user (local) system
 - Custom styling
 - A favicon
-- Github pages script and branch
+
 
 ## Deliverables
 
