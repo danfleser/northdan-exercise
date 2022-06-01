@@ -21,6 +21,7 @@ We would like you to build a Angular/React app that connects to a movie and/or t
 
 - Must use latest version of Angular/React(please take into account what the role you are applying for has as a requirements)
 - Must use CSS/SCSS to style component (use of a CSS framework is allowed and encouraged: ex Tailwind)
+- Must use responsive design
 - API keys should not be hardcoded in the JS/TS files
 - Project should contain linting config
 - Must use good practices for code quality and  project file structure
